@@ -1,1 +1,1 @@
-# landing_page
+This is the landing page project with Odin. 
